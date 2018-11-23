@@ -1,0 +1,9 @@
+.tablepress .sorting,
+.tablepress .sorting_asc,
+.tablepress .sorting_desc {
+	position: relative;
+	padding-right: 100px;
+	margin-right: 100px;
+	cursor: pointer;
+	outline: 0;
+}
